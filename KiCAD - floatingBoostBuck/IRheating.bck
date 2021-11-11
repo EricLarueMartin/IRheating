@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SC4541
+D 2MHz LED Driver with Built-in Schottky, ThinSOT-23-6
+K Switching LED driver
+F https://www.mouser.com/datasheet/2/761/SEMT_S_A0000087359_1-2575436.pdf
+$ENDCMP
+#
+#End Doc Library
