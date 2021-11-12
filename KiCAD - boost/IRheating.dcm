@@ -6,10 +6,4 @@ K Switching LED driver
 F https://www.mouser.com/datasheet/2/761/SEMT_S_A0000087359_1-2575436.pdf
 $ENDCMP
 #
-$CMP ZXLD1350
-D 30V 350mA LED Driver, ThinSOT-23-5
-K Switching LED driver
-F https://www.diodes.com/assets/Datasheets/ZXLD1350.pdf
-$ENDCMP
-#
 #End Doc Library
